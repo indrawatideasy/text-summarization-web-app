@@ -4,3 +4,4 @@ transformers
 streamlit
 tf-keras
 streamlit
+uv
